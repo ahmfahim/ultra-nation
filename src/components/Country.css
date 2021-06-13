@@ -1,0 +1,10 @@
+.country-div{
+    box-shadow: 1px 2px 5px lightgray;
+    width: 30%;
+    margin: auto;
+    padding: 5px;
+    margin-top:20px;
+}
+.country-div img{
+    width:100%;
+}
